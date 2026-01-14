@@ -1,3 +1,7 @@
+# UPDATE january 2026:
+Looks like the original script from Netbird now works on the WAGO controllers/panels
+https://docs.netbird.io/get-started/install/linux
+
 # Netbird Installer
 
 This shell script will install the [Netbird](https://netbird.io) Client.
