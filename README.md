@@ -1,5 +1,6 @@
 ### UPDATE
-I recommend to use the version of the script from my French colleagues.
+I recommend the version of the script from my French colleagues.
+See instructions below.
 
 # Setup
 
