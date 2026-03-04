@@ -1,3 +1,8 @@
+### UPDATE
+I recommend to use my colleague's fork of this script.
+https://github.com/quenorha/netbird-installer
+
+
 # Netbird Installer
 
 This shell script will install the [Netbird](https://netbird.io) Client.
